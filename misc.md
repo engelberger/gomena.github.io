@@ -12,6 +12,7 @@ It all started when my father taught me some notions of Visual Basic, and with t
 
 ### Notes
 Some notes I have written over the years. They don't have enough stuff to qualify as a paper, but happy if someone can find some utility in them.
+
 * [On the summability of the weights for completely random measures](http://stat.columbia.edu/~gonzalo/pubs/SumPoissonProcess.pdf)
 The result of a discussion during an insightful class by Professor [David Blei](http://www.cs.columbia.edu/~blei/)
 
