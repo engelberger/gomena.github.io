@@ -54,7 +54,6 @@ kramdown:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
-theme: "minimal-mistakes-jekyll"
 
   # other gems
 kramdown:
