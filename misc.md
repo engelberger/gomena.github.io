@@ -14,10 +14,8 @@ It all started when my father taught me some notions of Visual Basic, and with t
 Some notes I have written over the years. They don't have enough stuff to qualify as a paper, but happy if someone can find some utility in them.
 * [**On the summability of the weights for completely random measures**](http://stat.columbia.edu/~gonzalo/pubs/SumPoissonProcess.pdf)<br>
 The result of a discussion during an insightful class by Professor [David Blei](http://www.cs.columbia.edu/~blei/)
-
 * [**On the relation between matching by propensity score and weighted least squares estimator for the average treatment effect**](http://stat.columbia.edu/~gonzalo/pubs/Comment_WLS_ATE.pdf)<br>
 Result of a discussion in the Machine Learning Reading group led by [David Blei](http://www.cs.columbia.edu/~blei/)
-
 * [**Qualyfing exam cheatsheet**](http://stat.columbia.edu/~gonzalo/pubs/cheatsheet.pdf)
 
 
