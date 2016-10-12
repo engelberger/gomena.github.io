@@ -1,17 +1,19 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: About
+description: "Gonzalo E. Mena's' website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: mountain.jpg
 ---
 
-I'm a post-doctoral researcher in [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1)'s [ETHZ vision group](http://www.vision.ee.ethz.ch/index.en.html).
+<br />
+I'm a PhD fifth year PhD student in the [Statistics Department, Columbia University](stat.columbia.edu).  My advisor is [Liam Paninski](http://stat.columbia.edu/~liam). I am interested in Machine Learning and its applications, particularly to Neural data analysis. 
 
 <br />
-Previously, I did an 8-month internship at <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research, Zürich</a>, under the supervision of <a href="http://zurich.disneyresearch.com/~smolica/" target="_blank">Prof. Aljoscha Smolic</a>, I visited <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. Jitendra Malik</a>'s vision group in <a href="http://www.berkeley.edu" target="_blank">UC Berkeley</a>, and I collaborated with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
+A big part of my dissertation is a collaboration with [EJ Chichilnisky's Lab](http://med.stanford.edu/neurosurgery/research/chichilnisky.html) at [Stanford University](www.stanford.edu) where we are advancing new technologies to enable large-scale closed-loop control of neural activity in the retina based on electrical stimulation. This has the potential to improve our understanding of neural circuits (even beyond the retina) and to enhance the resolution of future retinal prosthesis. See my [research page](/research/) for more information about this project.
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a> under the supervision of <a href="https://imatge.upc.edu/web/ferran" target="_blank">Prof. Ferran Marques</a>.
+The picture above is from my hometown: Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl)
+
 
