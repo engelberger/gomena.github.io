@@ -7,4 +7,4 @@ modified: 10-7-2016
 comments: false
 ---
 
-My CV/resume is available upon request
+For an up-to-date resume, see my [Linkedin account](https://www.linkedin.com/in/gomena/)
