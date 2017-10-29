@@ -8,9 +8,10 @@ image:
 ---
 
 <br />
-I'm a final year PhD student in the Statistics Department, Columbia University. I am in an active search of research positions, both in the industry and academia. 
+I'm a final year PhD student in the Statistics Department, Columbia University. I am in an active search of research positions.
 
 My advisor is Liam Paninski, with whom I collaborate closely. 
+<br />
 <br />
 During my PhD I have teamed with top-tier research groups. Indeed, a big part of my dissertation is a collaboration with EJ Chichilnisky's Lab at Stanford University, where I've developed ML-based algorithms to support large-scale closed-loop control of neural activity in the retina based on electrical stimulation. Scientifically, this emerging technology has the potential to improve our understanding of neural circuits, even beyond the retina. Also, clinically, it might be useful to enhance the resolution of future retinal prosthesis, hence, providing a better treatment for people with degenerative eye disease (retinitis pigmentosa). [The code I developed](http://github.com/gomena/spike_separation_artifacts). is already being used to analyze huge volumes of neural data.  [See here the current pre-print of the manuscript to appear in PLOS Computational Biology](https://www.biorxiv.org/content/early/2017/10/23/089912). 
 <br />
