@@ -22,7 +22,7 @@ More recently, I was hosted by Jasper Snoek for a summer internship at [Google B
 Thanks to my PhD path I have developed strong quantitative and computational proficiency: I've been exposed to problems that involve the extraction of meaningful information in massive (neural) datasets with non-trivial structure, and plagued with corruption. I've incorporated Machine Learning/Deep Learning/Artificial Intelligence (ML/DL/AI) as the right semantics for problem modeling and solving, in our days. I've showed that I am quickly able identify the relevant structures of scientific problems, and to appropriately reduce them to some ML/DL/AI model. 
 
 <br />
-Upon graduation, I am particularly interested in doing research that involves using or creating ML/DL/AI methods for their application in scientific problems, and I am particularly interested in in life sciences and/or medicine/healthcare. Please reach out to me if you think I could be a good fit on a research role in your team. 
+Upon graduation, I am interested in fundamental ML/DL/AI but always with a focus on applications to Science. I am particularly interested in in life sciences and/or medicine/healthcare. Please reach out to me if you think I could be a good fit on a research role in your team. 
 <br />
 The picture above is from my hometown: Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl)
 
