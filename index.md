@@ -24,6 +24,7 @@ Thanks to my PhD path I have developed strong quantitative and computational pro
 <br />
 Upon graduation, I am interested in fundamental ML/DL/AI but always with a focus on applications to Science. I am particularly interested in in life sciences and/or medicine/healthcare. Please reach out to me if you think I could be a good fit on a research role in your team. 
 <br />
+<br />
 The picture above is from my hometown: Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl)
 
 
