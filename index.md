@@ -18,7 +18,7 @@ During my PhD I have teamed with top-tier research groups. Indeed, a big part of
 <br />
 More recently, I was hosted by Jasper Snoek for a summer internship at [Google Brain](https://research.google.com/teams/brain/), where I conducted fundamental research on Artificial Intelligence, exploring new Neural Network /ML techniques to tackle a combinatorial problem involving matchings. Code, open sourced by Google, is already available [here](http://github.com/google/gumbel_sinkhorn).  Results are comming soon
 <br />
-
+<br />
 Thanks to my PhD path I have developed strong quantitative and computational proficiency: I've been exposed to problems that involve the extraction of meaningful information in massive (neural) datasets with non-trivial structure, and plagued with corruption. I've incorporated Machine Learning/Deep Learning/Artificial Intelligence (ML/DL/AI) as the right semantics for problem modeling and solving, in our days. I've showed that I am quickly able identify the relevant structures of scientific problems, and to appropriately reduce them to some ML/DL/AI model. 
 
 <br />
