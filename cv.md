@@ -7,5 +7,5 @@ modified: 10-7-2016
 comments: false
 ---
 
-You can also download my [résumé in PDF](https://www.dropbox.com/s/p9qvdtx3m04s3yn/Resume-PontTuset.pdf?dl=0), or my [full CV](https://www.dropbox.com/s/k97xdtswlfefn8r/CV-PontTuset.pdf?dl=0).
+Here is my [full CV](https://gomena.github.io/doc/CVGM.pdf).
 
