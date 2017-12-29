@@ -8,16 +8,17 @@ image:
 ---
 
 <br />
-I'm a final year PhD student in the Statistics Department, Columbia University. My advisor is Liam Paninski. See [research](http://gomena.github.io/research) for an overview of my current and past research projects.
+I'm a final year PhD student in the Statistics Department, Columbia University. My advisor is Liam Paninski. I recently interned at Google Brain, I was hosted by Jasper Snoek. 
 <br />
 <br />
+
 I believe we have entered a golden era of statistics. We are living fascinating times where vast biological/medical datasets have been made available. ML has flourished as a prominent discipline to learn and extract structure from these data, providing principles for the development of complex statistical models and efficient scalable inference algorithms. 
 <br />
 <br />
 I am thrilled by researching ML algorithms that I can apply to real-world problems in the sciences. These problems require the interaction and contribution from people of different backgrounds. My work intends to contribute to the mutual nourishment imposed by collaboration in multidisciplinary teams where problems are represented in terms of statistical models, whose structures are researched. The results of this pursue are algorithms that efficiently probe the desired features in data, as well as novel machine learning methodology.
 <br />
 <br />
-I am actively seeking a research positions. In the future I intend to conduct fundamental research in ML while applying the resulting algorithms to address complex problems in Life Sciences.
+I am actively seeking **research positions**. In the future I intend to conduct fundamental research in ML while applying the resulting algorithms to address complex problems in Life Sciences. See [research](http://gomena.github.io/research) for an overview of my current and past research projects.
 <br />
 
 
