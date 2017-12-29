@@ -6,8 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: mountain.jpg
 ---
-
-
+<br>
 I'm a final year PhD student in the Statistics Department, Columbia University. My advisor is Liam Paninski. I recently interned at Google Brain, I was hosted by Jasper Snoek. 
 The picture above is from my hometown: Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
 
@@ -27,6 +26,8 @@ I am thrilled by researching ML algorithms that I can apply to real-world proble
 
 * Dec 22nd, 2017. Our paper [Reparameterizing the Birkhoff Polytope for Variational Permutation Inference
 ](https://arxiv.org/abs/1710.09508) (joint with S. Linderman, H. Cooper, J. Cunningham and L. Paninski) was accepted to AISTATS, 2018. Nos vemos en Lanzarote!
+* Dec 1st, 2017. I will be presenting two workshop papers at NIPS: [Our work on Sinkhorn Networks](https://gomena.github.io/doc/SinkhornOT.pdf) will be presented in the [Optimal Transport and Machine Learning Workshop](http://otml17.marcocuturi.net/). Also, [our work on permutation modeling for C. elegans data](https://gomena.github.io/doc/PermutationWorms.pdf) will be presented in the [Worms Information Processing Workshop](https://wenxichen.github.io/inspirations/2017/12/27/nips-2017-inspirations.html).
+
 
 
 
