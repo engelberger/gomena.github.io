@@ -20,7 +20,7 @@ I am thrilled by researching ML algorithms that I can apply to real-world proble
 
 <br>
 
-**I am actively seeking research positions**. In the future I intend to conduct fundamental research in ML while applying the resulting algorithms to address complex problems in Life Sciences. See [research](http://gomena.github.io/research) for an overview of my current and past research projects.
+**I am actively seeking research positions**. In the future I intend to conduct fundamental research in ML, and develop algorithms to address complex problems in Life Sciences. See [research](http://gomena.github.io/research) for an overview of my current and past research projects.
 
 ### News
 
