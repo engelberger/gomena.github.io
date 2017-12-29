@@ -28,17 +28,23 @@ This work focuses on more fundamental aspects related to inference of permutatio
 
 [1] Mena, G. & Paninski, L. (2014) On Quadrature Methods for Refractory Point Process Likelihoods.
 Neural Computation, Vol. 26, No. 12, 2790-2797.
+<br>
 [2] Mena, G., Grosberg, L., Hottowy, P., Litke, A., Cunningham, J., Chichilnisky E.J. & Paninski,
 L. (2017) Electrical Stimulus Artifact Cancellation and Neural Spike Detection on Large Multi-
 Electrode Arrays. In press, PLOS Computational Biology 13: e1005842.
+<br>
 [3] Mena, G., Grosberg, L. , Kellison-Linn, F. , Chichilnisky E.J. & Paninski, L. (2015) Large-scale
 Multi-Electrode Array Spike Sorting Algorithm Introducing Concurrent Recording and Stimulation.
 NIPS Workshop on Statistical Methods for Understanding Neural Systems.
-[4]  Linderman, S.* , Mena, G.* , Cooper, H., Paninski, L., Cunningham, J. (2018) Reparameterizing the Birkhoff Polytope for Variational Permutation Inference. Under review (AISTATS). arXiv:1710.09508
+<br>
+[4]  Linderman, S.* , Mena, G.* , Cooper, H., Paninski, L., Cunningham, J. (2018) Reparameterizing the Birkhoff Polytope for Variational Permutation Inference. AISTATS. arXiv:1710.09508
+<br>
 [5]  Mena, G.*, Linderman*, S., Belanger, D., Snoek, J., Paninski, L., Cunningham, J. (2017) Toward Bayesian permutation inference for identifying neurons in C. elegans. NIPS Workshop on Worm’s Neural
 Information Processing.
+<br>
 [6]  Mena, G., Belanger, D., Linderman, S., Snoek, J. (2018). Learning Latent Permutations with Gumbel-
 Sinkhorn Networks. Under review (ICLR 2018). OpenReview
+<br>
 [7]  Mena, G., Belanger, D., Muñoz, G., Snoek, J. (2017) Sinkhorn Networks: Using Optimal Transport Techniques to Learn Permutations. NIPS Workshop in Optimal Transport & Machine Learning.
 
 
