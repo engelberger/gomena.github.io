@@ -10,8 +10,10 @@ comments: false
 
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
-### Notes
-Some notes I have written over the years. They don't have enough stuff to qualify as a paper, but happy if someone can find some utility in them.
+### Notes *Warning: no-peer reviewed*
+Some notes I have written over the years. They don't have enough stuff to qualify as a paper, but happy if anyone can find them useful 
+
+* [**Conditional independence as non-negative matrix factorization**](http://stat.columbia.edu/~gonzalo/pubs/CondIndep.pdf)
 
 * [**On the summability of the weights for completely random measures**](http://stat.columbia.edu/~gonzalo/pubs/SumPoissonProcess.pdf)
 The result of a discussion during an insightful class by Professor [David Blei](http://www.cs.columbia.edu/~blei/)
