@@ -8,7 +8,7 @@ image:
 ---
 <br>
 
-Currenty I am a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [https://sites.google.com/site/pierrejacob/?pli=1&authuser=1](Pierre Jacob). Previosly, I did my PhD in Statistics at Columbia University with [Liam Paninski](http://www.stat.columbia.edu/~liam/). During my PhD days I was fortunate to be an intern at Google Brain, where I was hosted by Jasper Snoek. 
+Currenty I am a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). Previously, I did my PhD in Statistics at Columbia University with [Liam Paninski](http://www.stat.columbia.edu/~liam/). During my PhD days I was fortunate to be an intern at Google Brain, where I was hosted by Jasper Snoek. 
 The picture above is from my hometown: Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
 
 
