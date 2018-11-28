@@ -11,7 +11,7 @@ owner:
   name:           Gonzalo E. Mena
   avatar:         GonzaloLight.jpg
   bio:
-  email:          gem2131@columbia.edu
+  email:          gomena@fas.harvard.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: mena_gonzalo
   linkedin: gomena
@@ -27,8 +27,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Research
-    url: /research/
+
   - title: Publications
     url: /publications/
   - title: Blog
