@@ -8,22 +8,18 @@ image:
 ---
 <br>
 
-I'm a final year PhD student in the Statistics Department, Columbia University. My advisor is Liam Paninski. I recently interned at Google Brain, I was hosted by Jasper Snoek. 
+Currenty I am a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [https://sites.google.com/site/pierrejacob/?pli=1&authuser=1](Pierre Jacob). Previosly, I did my PhD in Statistics at Columbia University with [Liam Paninski](http://www.stat.columbia.edu/~liam/). During my PhD days I was fortunate to be an intern at Google Brain, where I was hosted by Jasper Snoek. 
 The picture above is from my hometown: Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
 
 
-### Brief Research philosophy
-As many, I believe we have entered a golden era of statistics. We are living fascinating times where vast biological/medical datasets have been made available. ML has flourished as a prominent discipline to learn and extract structure from these data, providing principles for the development of complex statistical models and efficient scalable inference algorithms. 
+### Interests
 
-<br>
+I am a computational statistician who is interested in developing scalable, robust and interpretable methods and algorithms for making sense of the large volumes of data that are routinely collected with modern technologies. Some questions I am interested in currently are: what makes popular algorithms work well in certain regimes (e.g. dimension) but not others, what makes models robust and how can we desing robust algorithms, etc. I do enjoy working with real data: in my PhD I developed algorithms for extracting neural signals from recordings, and I am looking forward to explore new collaborations involving data: every time traditional approaches fail is an opportunity to create a new method.
 
-I am thrilled by researching ML algorithms that I can apply to real-world problems in the sciences. These problems require the interaction and contribution from people of different backgrounds. My work intends to contribute to the mutual nourishment imposed by collaboration in multidisciplinary teams where problems are represented in terms of statistical models, whose structures are researched. The results of this pursue are algorithms that efficiently probe the desired features in data, as well as novel machine learning methodology.
 
-<br>
-
-**I am actively seeking research positions**. In the future I intend to conduct fundamental research in ML, and develop algorithms to address complex problems in Life Sciences. See [research](http://gomena.github.io/research) for an overview of my current and past research projects.
 
 ### News
+* Sept 01th, 2019. Started postdoc!
 
 * Feb 14th, 2018. I gave the talk [*Statistical Machine Learning Methods for
                                    Large-scale Neural Data Analysis*](http://www.stat.columbia.edu/~gonzalo/pubs/talks/MLNeuroscience.pdf) at the **Vector Institute**, Toronto.
