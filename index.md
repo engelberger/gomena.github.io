@@ -1,4 +1,4 @@
-%---
+---
 layout: home2
 title: About
 description: "Gonzalo E. Mena's' website"
