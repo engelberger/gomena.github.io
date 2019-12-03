@@ -15,6 +15,4 @@ The picture above is from my hometown: Santiago, Chile. There I obtained by B.S.
 
 ### Interests
 
-I am interested bridging theoretical and practical aspects of statistics through the development of scalable and robust methods and algorithms for making sense of the large volumes of data that are routinely collected with modern technologies in the life sciences. Currently, my work gravitates mostly at the interface between statistics, optimal transport and machine learning: I am developing theoretical results in optimal transport to better understand its pratical success, and I am also developing new algorithms and methods, notably, for the inference of neural identity in C.elegans.
-
-
+I am interested in bridging the theory and practice of statistics through the development of scalable and robust methods for making sense of the large volumes of data that are routinely collected with modern technologies in the life sciences. Currently, my work gravitates at the intersection of statistics, optimal transport and machine learning: I am studying statistical aspects of optimal transport, both at the theoretical and methodological level. Additionally, and based on this, I am developing new algorithms, notably, to identify neurons in the worm C.elegans.
