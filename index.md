@@ -15,4 +15,4 @@ The picture above is from my hometown: Santiago, Chile. There I obtained by B.S.
 
 ### Research
 
-Broadly speaking, I am interested in developing scalable and robust methods for making sense of the large volumes of data that are routinely collected with modern technologies in the life sciences, bridging the theory and practice of statistics. Currently, my research lies at the intersection of statistics, optimal transport and machine learning: I am studying statistical aspects of optimal transport, both at the theoretical and methodological level. Additionally, and based on this, I am developing new algorithms, notably, to identify neurons in the worm C.elegans.
+I develop scalable and robust methods for understanding the large volumes of data that are routinely collected with modern technologies in the life sciences. Currently, my research intersects statistics, optimal transport and machine learning: I study statistical aspects of optimal transport, both at the theoretical and methodological level. Additionally, and based on this, I develop new algorithms, for example, to identify neurons in the worm C.elegans.
